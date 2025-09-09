@@ -1,3 +1,3 @@
 -  Hi, I’m @LittleFrogy (Tamim Hasan Akib)
 -  I’m interested in competitive programming
--  I’m currently learning Computer science and Engineering
+-  I’m currently learning Computer Science and Engineering
